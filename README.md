@@ -28,7 +28,6 @@ This project helped me strengthen my skills in Android development, mobile UI de
 
 
 <img width="397" height="834" alt="image" src="https://github.com/user-attachments/assets/81136e02-eabc-4822-a4dd-256a71c96554" />
-
 <img width="380" height="816" alt="image" src="https://github.com/user-attachments/assets/6bcaf725-be5a-4ba3-81af-ef2f76742a30" />
 <img width="398" height="821" alt="image" src="https://github.com/user-attachments/assets/542bb02e-ddbc-4d8f-947a-f82b65e0a9ba" />
 
